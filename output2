@@ -1,4 +1,8 @@
-Secret (constant term 'c') 
+input:1 
+{ "base": "10", "value": "4" } - Decodes to ( x = 1 , y = 4 ] .
+Output:Secret (constant term 'c') 
 for Test Case 1: 5
-Secret (constant term 'c') 
+input:7
+{"base": "3","value": "20120221122211000100210021102001201112121"}
+Output:Secret (constant term 'c') 
 for Test Case 2: 234567
